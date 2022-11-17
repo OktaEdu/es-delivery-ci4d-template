@@ -23,6 +23,5 @@
 },
   "workbench.sideBar.location": "left",
   "codetour.promptForWorkspaceTours": false,
-  "codetour.showMarkers": false,
-  "codetour.customTourDirectory": ".auth0/lab/guides"
+  "codetour.showMarkers": false
 }
