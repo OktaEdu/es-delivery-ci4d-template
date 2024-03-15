@@ -1,5 +1,7 @@
 [![Okta Training](./.tour-resources/oktaeduservices.png "Okta Education Services")](https://www.okta.com/services/training/)
 
+#### Disclaimer: The following is intended for educational purposes only. Not meant for production.
+
 # Lab Node Template
 
 An Okta Training lab template for Customer Identity courses. Replace this section with the title of your Module and a brief description.
